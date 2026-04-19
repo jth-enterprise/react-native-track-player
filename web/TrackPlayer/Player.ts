@@ -1,3 +1,4 @@
+/// <reference types="shaka-player" />
 import { State } from '../../src/constants/State';
 import type { PlaybackState, Progress, Track } from '../../src/interfaces';
 import { SetupNotCalledError } from './SetupNotCalledError';
